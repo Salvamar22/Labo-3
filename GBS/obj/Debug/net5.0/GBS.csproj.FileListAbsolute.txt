@@ -1,0 +1,16 @@
+C:\Users\salva\Desktop\Progra\Labos_Poo\Labo03\GBS\obj\Debug\net5.0\GBS.csprojAssemblyReference.cache
+C:\Users\salva\Desktop\Progra\Labos_Poo\Labo03\GBS\obj\Debug\net5.0\GBS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\Desktop\Progra\Labos_Poo\Labo03\GBS\obj\Debug\net5.0\GBS.AssemblyInfoInputs.cache
+C:\Users\salva\Desktop\Progra\Labos_Poo\Labo03\GBS\obj\Debug\net5.0\GBS.AssemblyInfo.cs
+C:\Users\salva\Desktop\Progra\Labos_Poo\Labo03\GBS\obj\Debug\net5.0\GBS.csproj.CoreCompileInputs.cache
+C:\Users\salva\Desktop\Progra\Labos_Poo\Labo03\GBS\bin\Debug\net5.0\GBS.exe
+C:\Users\salva\Desktop\Progra\Labos_Poo\Labo03\GBS\bin\Debug\net5.0\GBS.deps.json
+C:\Users\salva\Desktop\Progra\Labos_Poo\Labo03\GBS\bin\Debug\net5.0\GBS.runtimeconfig.json
+C:\Users\salva\Desktop\Progra\Labos_Poo\Labo03\GBS\bin\Debug\net5.0\GBS.runtimeconfig.dev.json
+C:\Users\salva\Desktop\Progra\Labos_Poo\Labo03\GBS\bin\Debug\net5.0\GBS.dll
+C:\Users\salva\Desktop\Progra\Labos_Poo\Labo03\GBS\bin\Debug\net5.0\ref\GBS.dll
+C:\Users\salva\Desktop\Progra\Labos_Poo\Labo03\GBS\bin\Debug\net5.0\GBS.pdb
+C:\Users\salva\Desktop\Progra\Labos_Poo\Labo03\GBS\obj\Debug\net5.0\GBS.dll
+C:\Users\salva\Desktop\Progra\Labos_Poo\Labo03\GBS\obj\Debug\net5.0\ref\GBS.dll
+C:\Users\salva\Desktop\Progra\Labos_Poo\Labo03\GBS\obj\Debug\net5.0\GBS.pdb
+C:\Users\salva\Desktop\Progra\Labos_Poo\Labo03\GBS\obj\Debug\net5.0\GBS.genruntimeconfig.cache
